@@ -1,0 +1,9 @@
+flask
+flasgger
+requests
+rapidocr-onnxruntime
+pdf2image
+Pillow
+pymupdf
+opencv-python-headless
+numpy
